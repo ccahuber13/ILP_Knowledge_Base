@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Viewing a students SaaS lab"
+  FileSearchable="true"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/Development/ILP Knowledge Base Master/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/Resources/images/lab/01_lab.png" />
+    <Link
+      Url="Content/products/ilp/topics/lab/connecting.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/connecting_student.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/rebooting.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/transferring_files.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/resetting_system.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/deploying_new_image.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/clear_activation.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/change_access_codes.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/actions_menu.htm" />
+    <Link
+      Url="Content/products/ilp/topics/desktop/remote_desktop.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/connecting_hyperview_desktop.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/Resources/images/lab/01_lab.png" />
+    <Link
+      Url="Content/products/ilp/topics/lab/connecting.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/connecting_student.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/rebooting.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/transferring_files.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/resetting_system.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/deploying_new_image.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/clear_activation.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/change_access_codes.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/actions_menu.htm" />
+    <Link
+      Url="Content/products/ilp/topics/desktop/remote_desktop.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/connecting_hyperview_desktop.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

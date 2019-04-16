@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="20px" PageSize="Letter" PaddingLeft="0.5in" PaddingRight="0.5in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="header" Height="0.4791667in" Anchors="Left,Right,Top" X="0px" Y="-0.7291667in" ColumnCount="1" Bottom="9.25in" Right="0px" Width="720px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="0.5in" Anchors="Left,Right,Bottom" Bottom="-0.75in" Y="9.25in" BorderTopStyle="solid" BorderTopWidth="1pt" BorderTopColor="#dcdcdc" TextAlign="left" VerticalAlign="middle" X="0px" Width="720px" Right="0px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: left;">www.readytech.com   © ReadyTech </xhtml:p>
+                        <xhtml:p>- </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" X="0px" Y="0px" Width="720px" Height="864px" Right="0px" Bottom="0px">
+        </Frame>
+    </Page>
+</PageStyles>

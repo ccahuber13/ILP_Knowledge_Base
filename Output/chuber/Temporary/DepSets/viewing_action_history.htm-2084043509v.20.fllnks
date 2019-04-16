@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Viewing action history"
+  FileSearchable="true"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/Development no Axis/ILP Knowledge Base Master/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/Resources/images/actions_menu/23_actions_menu.png" />
+    <Link
+      Url="Content/Resources/images/actions_menu/24_actions_menu.png" />
+    <Link
+      Url="Content/products/ilp/topics/lab/rebooting.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/resetting_system.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/deploying_new_image.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/clear_activation.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/viewing_system_log.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/Resources/images/actions_menu/23_actions_menu.png" />
+    <Link
+      Url="Content/Resources/images/actions_menu/24_actions_menu.png" />
+    <Link
+      Url="Content/products/ilp/topics/lab/rebooting.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/resetting_system.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/deploying_new_image.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/clear_activation.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/viewing_system_log.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

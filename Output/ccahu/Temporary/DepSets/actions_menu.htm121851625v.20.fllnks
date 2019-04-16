@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Actions menu"
+  FileSearchable="true"
+  MasterPage="file:///E:/RTKnowledgeBase/DEVELOPMENT KB/Development/ILP Knowledge Base Master/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/products/ilp/topics/lab/rebooting.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/transferring_files.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/resetting_system.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/deploying_new_image.htm" />
+    <Link
+      Url="Content/Resources/images/lab/02_lab.png" />
+    <Link
+      Url="Content/products/ilp/topics/desktop/desktop_actions_menu.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/products/ilp/topics/lab/rebooting.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/transferring_files.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/resetting_system.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/deploying_new_image.htm" />
+    <Link
+      Url="Content/Resources/images/lab/02_lab.png" />
+    <Link
+      Url="Content/products/ilp/topics/desktop/desktop_actions_menu.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

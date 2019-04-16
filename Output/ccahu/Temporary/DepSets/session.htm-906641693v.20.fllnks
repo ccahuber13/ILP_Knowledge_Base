@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Sessions"
+  FileSearchable="true"
+  MasterPage="file:///E:/RTKnowledgeBase/RT Knowledge Base v4 Master/RT Knowledge Base v4/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Resources/images/assets/screenshots/ap/sessions/1_lg.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/ap/sessions/1_sm.png" />
+    <Link
+      Url="Content/products/admin_portal/topics/images/images.htm" />
+    <Link
+      Url="Content/contact.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/cancellation_policies.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/lab.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/events_home.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Resources/images/assets/screenshots/ap/sessions/1_lg.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/ap/sessions/1_sm.png" />
+    <Link
+      Url="Content/products/admin_portal/topics/images/images.htm" />
+    <Link
+      Url="Content/contact.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/cancellation_policies.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/lab.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/events_home.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

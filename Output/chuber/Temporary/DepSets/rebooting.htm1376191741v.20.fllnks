@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Rebooting the remote systems"
+  FileSearchable="true"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/Development/ILP Knowledge Base Master/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/Resources/images/actions_menu/04_actions_menu.png" />
+    <Link
+      Url="Content/Resources/images/actions_menu/05_actions_menu.png" />
+    <Link
+      Url="Content/products/ilp/topics/lab/power_on.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/transferring_files.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/clear_activation.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/change_access_codes.htm" />
+    <Link
+      Url="Content/products/ilp/topics/materials/materials.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/Resources/images/actions_menu/04_actions_menu.png" />
+    <Link
+      Url="Content/Resources/images/actions_menu/05_actions_menu.png" />
+    <Link
+      Url="Content/products/ilp/topics/lab/power_on.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/transferring_files.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/clear_activation.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/change_access_codes.htm" />
+    <Link
+      Url="Content/products/ilp/topics/materials/materials.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

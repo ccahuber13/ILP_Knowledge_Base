@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<head>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500, 700" rel="stylesheet" />
+	
+		
+		<style>
+			.sidenav-wrapper {
+				display:none;
+			}
+			
+			nav.title-bar {
+				box-shadow: none!important;
+			}
+		</style>
+			
+</head>
+<body>
+		
+		<nav class="top-nav">
+			<div class="navbar">
+				
+			
+				
+				<a href="../../contact.htm">Help</a>
+				
+				<!--
+				<a href="../../../Default.htm">Products Home</a>
+				<div class="dropdown">
+				<button class="dropbtn">Product
+				<i class="fa fa-caret-down"></i></button>
+				<div class="dropdown-content"><a href="#">Admin Portal</a><a href="#">Instructor-Led Portal</a><a href="#">Self-Paced Portal</a>
+				</div>
+				</div><a href="#news">Contact Us</a> -->
+			</div>
+		</nav> 
+			
+	
+		
+	<MadCap:breadcrumbsProxy/>
+	<MadCap:bodyProxy/>
+		
+		<footer>
+			<p> © 2018 <a href="http://www.readytech.com">ReadyTech</a> Corp. All Rights Reserved.</p>
+		</footer>
+</body>
+</html>

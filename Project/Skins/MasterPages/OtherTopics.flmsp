@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <script type="text/javascript" src="../../../Content/Resources/js/rt.js">
+        </script>
+        <link href="https://fonts.googleapis.com/css?family=Lato:700|Roboto:400,400i,700" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+	
+		
+    </head>
+    <body>
+        <nav class="top-nav">
+            <div class="navbar">
+                <div class="select">
+                    <select onchange="location = this.value;">
+                        <option selected="selected">Admin Portal
+                        </option>
+                        <option value="../../../../ilp/Default.htm">Instructor-Led Portal</option>
+                        <option value="../../../../spp/Default.htm">Self-Paced Portal
+                        </option>
+                        <option value="../../../../axis/Default.htm">Axis
+                        </option>
+                    </select>
+                    <div class="select_arrow">
+                    </div>
+                </div><a href="../../contact.htm">Help</a>
+                <!--
+				<a href="../../../Default.htm">Products Home</a>
+				<div class="dropdown">
+				<button class="dropbtn">Product
+				<i class="fa fa-caret-down"></i></button>
+				<div class="dropdown-content"><a href="#">Admin Portal</a><a href="#">Instructor-Led Portal</a><a href="#">Self-Paced Portal</a>
+				</div>
+				</div><a href="#news">Contact Us</a> -->
+            </div>
+        </nav>
+      
+		<MadCap:bodyProxy />
+        <footer>
+            <p> © 2018 <a href="http://www.readytech.com">ReadyTech</a> Corp. All Rights Reserved.</p>
+        </footer>
+    </body>
+</html>

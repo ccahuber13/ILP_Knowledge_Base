@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Pre-check connectivity test"
+  FileSearchable="true"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/Development no Axis/ILP Knowledge Base Master/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://instructorled.training/support/help" />
+    <Link
+      Url="https://view.vzaar.com/6432994/video" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/cancellation_policies.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/assigning_access_code.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://instructorled.training/support/help" />
+    <Link
+      Url="https://view.vzaar.com/6432994/video" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/cancellation_policies.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/assigning_access_code.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

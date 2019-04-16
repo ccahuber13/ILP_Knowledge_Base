@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Enabling RTViewer"
+  FileSearchable="true"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/Development/ILP Knowledge Base Master/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://view.vzaar.com/7307488/video" />
+    <Link
+      Url="Content/products/ilp/topics/lab/enabling_rdp.htm" />
+    <Link
+      Url="Content/Resources/downloads/ilp_rtviewer.pdf" />
+    <Link
+      Url="Content/products/ilp/topics/remote_viewers/remote_viewers.htm" />
+    <Link
+      Url="Content/products/ilp/topics/audio/audio.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://view.vzaar.com/7307488/video" />
+    <Link
+      Url="Content/products/ilp/topics/lab/enabling_rdp.htm" />
+    <Link
+      Url="Content/Resources/downloads/ilp_rtviewer.pdf" />
+    <Link
+      Url="Content/products/ilp/topics/remote_viewers/remote_viewers.htm" />
+    <Link
+      Url="Content/products/ilp/topics/audio/audio.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Using RTViewer " />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <script type="text/javascript" src="../../../Content/Resources/js/rt.js"></script>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"/>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700" rel="stylesheet"/>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
+	</head>
+    <body>
+		<nav class="navbar fixed-top navbar-expand-xl navbar-dark navbar--rt">
+			<div class="menu-icon-container relative clearfix">
+               	<button class="navbar-toggler" type="button" data-toggle="offCanvas" data-target="#navbarTogglerDemo02" aria-controls="offCanvas" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+            	</button>
+            </div>
+  			<a class="navbar-brand logo" href="../../../../../../products/admin_portal/aphome.htm">
+			  	<img src="../images/logo/rt_logo_white.png"/>
+			</a>
+  			<button class="navbar-toggler navbar-toggler-right" type="button" aria-label="Toggle navigation">
+    			<span class="navbar-toggler-icon"></span>
+  			</button>
+  			<div class="collapse navbar-collapse justify-content-end" id="navbarDropdownMenuLink">
+    			<ul class="navbar-nav mt-2 mt-lg-0 navbar-nav--ordertwo ">
+      				<li class="nav-item active">
+        				<a class="nav-link" href="../../products/ilp/ilp_home.htm"><i class="fas fa-home"></i>Home</a>
+      				</li>
+					<li class="nav-item">
+        				<a class="nav-link" href="../../downloads.htm"><i class="fas fa-download"></i>Product Downloads</a>
+      				</li>
+      				<li class="nav-item">
+        				<a class="nav-link" href="../../contact.htm"><i class="far fa-question-circle"></i>Help</a>
+      				</li>
+					<li class="nav-item" id="rtDropdown-parent" >
+        				<a class="nav-link dropdown-toggle" href="#">Instructor-Led Portal</a>
+        				<div class="dropdown-content" id="rtDropdown">
+          					<a class="dropdown-item" href="../../../../products/admin_portal/aphome.htm">Admin Portal</a>
+          					<a class="dropdown-item" href="../../../../spp/Default.htm">Self-Paced Portal</a>
+          					<a class="dropdown-item" href="../../../../lm/Default.htm">LabManager</a>
+        				</div>
+					</li>
+    			</ul>
+				<MadCap:searchBarProxy />
+			</div>
+			<div class="navbar-toggler-right-menu">
+				<ul>
+					<li><MadCap:searchBarProxy /></li>
+					<li>
+					<a class="nav-link" href="../../products/ilp/ilp_home.htm"><i class="fas fa-home"></i>Home<span class="sr-only"></span></a>
+					</li>
+				</ul>
+				<ul>
+					<li><a class="dropdown-item" href="../../../../products/admin_portal/aphome.htm">Admin Portal</a></li>
+					<li><a class="dropdown-item" href="../../../../spp/Default.htm">Self-Paced Portal</a></li>
+					<li><a class="dropdown-item" href="../../../../lm/Default.htm">LabManager</a></li>
+				</ul>
+				<ul>
+					<li><a class="nav-link" href="../../downloads.htm"><i class="fas fa-download">
+												</i>Product Downloads</a></li>
+					<li><a class="nav-link" href="../../contact.htm"><i class="far fa-question-circle"></i>Help</a></li>
+				</ul>
+			</div>
+		</nav>
+
+        <MadCap:breadcrumbsProxy />
+		
+        <MadCap:bodyProxy />
+		
+      	<footer>
+			<p> © <span id="date"> </span> <a href="http://www.readytech.com">ReadyTech</a> Corp. All Rights Reserved.</p>
+		</footer>
+		
+		<script type="text/javascript" src="../js/rt_script.js"></script>
+	</body>
+</html>

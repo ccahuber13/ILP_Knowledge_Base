@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Pre-check connectivity test"
+  FileSearchable="true"
+  MasterPage="file:///E:/RTKnowledgeBase/DEVELOPMENT KB/Development/ILP Knowledge Base Master/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://view.vzaar.com/6432994/video" />
+    <Link
+      Url="Content/Resources/images/web-design.png" />
+    <Link
+      Url="Content/products/ilp/topics/templates/template.htm" />
+    <Link
+      Url="Content/products/ilp/topics/templates/creating_templates.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/precheck_test.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/events_home.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/adding_access_code.htm" />
+    <Link
+      Url="Content/Resources/images/events/events_10.png" />
+    <Link
+      Url="Content/Resources/images/events/events_11.png" />
+    <Link
+      Url="Content/Resources/images/events/events_13.png" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/cancellation_policies.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/assigning_access_code.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://view.vzaar.com/6432994/video" />
+    <Link
+      Url="Content/Resources/images/web-design.png" />
+    <Link
+      Url="Content/products/ilp/topics/templates/template.htm" />
+    <Link
+      Url="Content/products/ilp/topics/templates/creating_templates.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/precheck_test.htm#2" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/events_home.htm#4-4" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/adding_access_code.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/precheck_test.htm#event_type.htm#4-7" />
+    <Link
+      Url="Content/Resources/images/events/events_10.png" />
+    <Link
+      Url="Content/Resources/images/events/events_11.png" />
+    <Link
+      Url="Content/Resources/images/events/events_13.png" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/cancellation_policies.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/assigning_access_code.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

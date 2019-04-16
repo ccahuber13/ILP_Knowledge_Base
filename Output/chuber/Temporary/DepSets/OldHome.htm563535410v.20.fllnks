@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Landing Page"
+  FileSearchable="false"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/RT Knowledge Base v4 Master/ILP Knowledge Base Master/Content/Resources/MasterPages/LandingHome.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/LandingHome.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/LandingStyle.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/LandingHome.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/LandingStyle.css" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/LandingStyle.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

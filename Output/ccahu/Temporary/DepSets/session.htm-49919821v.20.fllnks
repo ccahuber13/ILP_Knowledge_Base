@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Sessions"
+  FileSearchable="true"
+  MasterPage="file:///E:/RTKnowledgeBase/RT Knowledge Base v4/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Resources/images/assets/screenshots/ap/sessions/1_lg.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/ap/sessions/1_sm.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Resources/images/assets/screenshots/ap/sessions/1_lg.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/ap/sessions/1_sm.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="PDF Guides" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/products/ilp/ilp_home.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/ilp_getting_started.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/precheck_test.htm" />
+    <Link
+      Url="Content/products/ilp/topics/remote_viewers/remote_viewers.htm" />
+    <Link
+      Url="Content/products/ilp/topics/remote_viewers/enabling_rtviewer.htm" />
+    <Link
+      Url="Content/products/ilp/topics/remote_viewers/enabling_rdp.htm" />
+    <Link
+      Url="Content/products/ilp/topics/supporting_instructors/supporting_instructors.htm" />
+    <Link
+      Url="Content/products/ilp/topics/labmanager/labmanager.htm" />
+    <Link
+      Url="Content/products/ilp/topics/labmanager/labmanager_demo.htm" />
+    <Link
+      Url="Content/products/ilp/topics/classmanager/classmanager.htm" />
+    <Link
+      Url="Content/products/ilp/topics/saas_labs/saas_labs.htm" />
+    <Link
+      Url="Content/products/ilp/topics/audio/audio.htm" />
+    <Link
+      Url="Content/products/ilp/topics/faq.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

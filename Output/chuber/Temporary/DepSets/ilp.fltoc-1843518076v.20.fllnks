@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/ilp_getting_started.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/precheck_test.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/instructor_guide.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/student_guide.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lobby/lobby.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lobby/participant_location.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lobby/editing_profile.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/lab.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/connecting.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/connecting_hyperview_desktop.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/hyperview_desktop_dual_monitor_demo.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/connecting_rdp.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/actions_menu.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/blocking_user_access.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/rebooting.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/power_on.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/updating_deployment_file.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/transferring_files.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/resetting_system.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/deploying_new_image.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/viewing_system_log.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/clear_activation.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/change_access_codes.htm" />
+    <Link
+      Url="Content/products/ilp/topics/lab/viewing_action_history.htm" />
+    <Link
+      Url="Content/products/ilp/topics/supporting_instructors/supporting_instructors.htm" />
+    <Link
+      Url="Content/products/ilp/topics/classmanager/classmanager.htm" />
+    <Link
+      Url="Content/products/ilp/topics/saas_labs/saas_labs.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

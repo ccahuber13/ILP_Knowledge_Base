@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="ClassManager"
+  FileSearchable="true"
+  MasterPage="file:///E:/RTKnowledgeBase/Development/ILP Knowledge Base Master/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://view.vzaar.com/6084335/video" />
+    <Link
+      Url="Content/products/ilp/topics/saas_labs/saas_labs.htm" />
+    <Link
+      Url="Content/products/ilp/topics/labmanager/labmanager.htm" />
+    <Link
+      Url="Content/products/ilp/topics/labmanager/labmanager_demo.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/ilp_getting_started.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://view.vzaar.com/6084335/video" />
+    <Link
+      Url="Content/products/ilp/topics/saas_labs/saas_labs.htm" />
+    <Link
+      Url="Content/products/ilp/topics/labmanager/labmanager.htm" />
+    <Link
+      Url="Content/products/ilp/topics/labmanager/labmanager_demo.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/ilp_getting_started.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

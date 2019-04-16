@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('../../../../Resources/MasterPages/OtherTopics.flmsp');">
+    <head><title>Troubleshooting network latency</title>
+    </head>
+    <body>
+        <div class="container-flex">
+            <div class="article-wrapper">
+                <h1 id="1">Troubleshooting network latency</h1>
+                <p>Latency is the time it takes for data to move from your local system to a ReadyTech datacenter. Latency can be
+                    highly dependent on multiple factors such as internet service provider, weather, location, and network traffic.</p>
+                <p>In general, the ILP works best with if your latency is 200ms or less. A lower latency number is better.</p>
+                <p>Bandwidth is the overall amount of data that can be transferred over a connection. Bandwidth can be affected by the same network activities as latency. See <a href="ts_bandwidth_requirements.htm">bandwidth requirements</a> for more information.</p>
+                <p>Multiple users on a single network must be taken into consideration as well. To learn how to calculate bandwidth for multiple students in a single location, see <a href="">calculating bandwidth for multiple students</a>.</p>
+                <p>To troubleshoot high latency, try the following:</p>
+                <ul>
+                    <li>Switch from Wireless connection to hardwired, and vice versa.</li>
+                    <li>Verify no large files or videos are being streamed on the network.</li>
+                    <li>Verify your network supports at least <span class="bold">250 KBps</span> of download speed with our <a href="ts_bandwidth_calculator.htm">bandwidth calculator</a>.</li>
+                    <li>If you are connected to a VPN, try disconnecting the VPN.</li>
+                </ul>
+                <p>If the above do not resolve your issue, continue to the next section changing the gateway settings.</p>
+                <h3>Changing the gateway settings</h3>
+                <p>In some instances of high network latency, changing the Gateway for the ILP can help. Note that the gateway can only be changed after you have logged in to the ILP.</p>
+                <p>To change the gateway, follow the steps below:</p>
+                <ol>
+                    <li>Log in to the ILP.</li>
+                    <li>Click your <span class="bold">name</span> from the user menu in the top right-hand corner, then click <span class="bold">Settings</span>.
+                        <img src="../../../../Resources/images/troubleshooting/02_ts.png" title="Troubleshooting" class="article__step-image" width="20%" /></li>
+                    <li>Select <span class="italic">DC2 Wiline HTTPS</span> from the <span class="bold">Gateway</span> drop-down list.
+                        <img src="../../../../Resources/images/troubleshooting/01_ts.png" title="Troubleshooting" class="article__step-image" width="40%" /></li>
+                    <li>Click <span class="bold">Save</span>.</li>
+                    <li>Run the <a href="../ilp_getting_started/precheck_test.htm">pre-check connectivity test</a> to check if your latency has improved.</li>
+                </ol>
+                <div class="article__next-article">
+                    <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: PreviousTopic NextTopic;" />
+                </div>
+            </div>
+            <div class="article__side-nav">
+                <div class="table-of-contents-container ">
+                </div>
+                <div class="rel-articles-container">
+                </div>
+            </div>
+        </div><a class="rel-topic" href="../ilp_getting_started/precheck_test.htm">Pre-checking connectivity</a>
+    </body>
+</html>

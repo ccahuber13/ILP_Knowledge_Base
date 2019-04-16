@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Materials"
+  FileSearchable="true"
+  MasterPage="file:///E:/RTKnowledgeBase/DEVELOPMENT KB/Development/ILP Knowledge Base Master/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/precheck_test.htm" />
+    <Link
+      Url="Content/Resources/downloads/ilp_instructor_guide.pdf" />
+    <Link
+      Url="Content/products/ilp/topics/supporting_instructors/supporting_instructors.htm" />
+    <Link
+      Url="Content/products/ilp/topics/classmanager/classmanager.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/precheck_test.htm" />
+    <Link
+      Url="Content/Resources/downloads/ilp_instructor_guide.pdf" />
+    <Link
+      Url="Content/products/ilp/topics/supporting_instructors/supporting_instructors.htm" />
+    <Link
+      Url="Content/products/ilp/topics/classmanager/classmanager.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="ILP Instructor Guide PDF" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

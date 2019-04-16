@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Billing entities"
+  FileSearchable="true"
+  MasterPage="file:///E:/RTKnowledgeBase/RT Knowledge Base v4 Master/RT Knowledge Base v4/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/products/admin_portal/topics/administration/create_billing_entity.htm" />
+    <Link
+      Url="Content/contact.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/administration/create_user.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/creating_event.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/products/admin_portal/topics/administration/create_billing_entity.htm" />
+    <Link
+      Url="Content/contact.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/administration/create_user.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/creating_event.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

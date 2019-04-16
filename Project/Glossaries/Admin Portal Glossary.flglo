@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Admin Portal Glossary.Term0"
+    Stem=""
+    IgnoreCase="true"
+    TermClass="Hyperlink"
+    SortAs="Instructor-Led">
+    <Terms>
+      <Term>Instructor-Led</Term>
+    </Terms>
+    <Definition
+      Link="/Content/products/admin_portal/topics/events/events_home.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Admin Portal Glossary.Term1"
+    Stem=""
+    IgnoreCase="true"
+    TermClass="Hyperlink">
+    <Terms>
+      <Term>Image</Term>
+    </Terms>
+    <Definition
+      Link="/Content/products/admin_portal/topics/images/images.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Admin Portal Glossary.Term2"
+    TermClass="Hyperlink"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>Deployment</Term>
+    </Terms>
+    <Definition
+      Link="/Content/products/admin_portal/topics/deployments/deployment.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Admin Portal Glossary.Term3"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>Deployment plan</Term>
+      <Term>deployment plan</Term>
+    </Terms>
+    <Definition
+      Link="/Content/products/admin_portal/topics/deployments/deployment_plan.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Target Platform"
+    glossTerm="Admin Portal Glossary.Term4"
+    TermClass="Hyperlink"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Target Platform</Term>
+    </Terms>
+    <Definition
+      Link="/Content/products/admin_portal/topics/deployments/target_platform.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Self-Paced"
+    glossTerm="Admin Portal Glossary.Term5"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Self-Paced</Term>
+    </Terms>
+    <Definition
+      Link="/Content/products/admin_portal/topics/events/events_home.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Admin Portal Glossary.Term6"
+    Stem=""
+    SortAs="ILT Flex"
+    IgnoreCase="false">
+    <Terms>
+      <Term>ILT Flex</Term>
+    </Terms>
+    <Definition
+      Link="/Content/products/admin_portal/topics/events/events_home.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Admin Portal Glossary.Term7"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Sales Demo">
+    <Terms>
+      <Term>Sales Demo</Term>
+    </Terms>
+    <Definition
+      Link="/Content/products/admin_portal/topics/events/events_home.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Course Materials"
+    glossTerm="Admin Portal Glossary.Term8"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Course Materials</Term>
+    </Terms>
+    <Definition
+      Link="/Content/products/admin_portal/topics/course_templates/material.htm"></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Admin Portal Glossary.Term9"
+    TermClass="Hyperlink"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Instructor Prep</Term>
+    </Terms>
+    <Definition
+      Link="/Content/products/admin_portal/topics/events/events_home.htm"></Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

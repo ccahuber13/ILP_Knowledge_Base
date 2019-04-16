@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="home-topic"
+  FileTitle="Home"
+  FileSearchable="false"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/Development no Axis/ILP Knowledge Base Master/Content/Resources/MasterPages/HomePage.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/ilp_getting_started.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/precheck_test.htm" />
+    <Link
+      Url="Content/products/ilp/topics/supporting_instructors/supporting_instructors.htm" />
+    <Link
+      Url="Content/Resources/downloads/guides/rt-ilp-instructor-guide.pdf" />
+    <Link
+      Url="Content/Resources/downloads/guides/rt-ilp-student-guide.pdf" />
+    <Link
+      Url="Content/Resources/downloads/guides/rt-actions-menu-guide.pdf" />
+    <Link
+      Url="Content/Resources/downloads/guides/rt-cancellation-policies-guide.pdf" />
+    <Link
+      Url="https://view.vzaar.com/6432994/video" />
+    <Link
+      Url="https://view.vzaar.com/8667447/video" />
+    <Link
+      Url="https://view.vzaar.com/6082571/video" />
+    <Link
+      Url="https://view.vzaar.com/18717622/video" />
+    <Link
+      Url="https://view.vzaar.com/18601132/video" />
+    <Link
+      Url="https://view.vzaar.com/6082569/video" />
+    <Link
+      Url="https://view.vzaar.com/6433268/video" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/ilp_getting_started.htm" />
+    <Link
+      Url="Content/products/ilp/topics/ilp_getting_started/precheck_test.htm" />
+    <Link
+      Url="Content/products/ilp/topics/supporting_instructors/supporting_instructors.htm" />
+    <Link
+      Url="Content/Resources/downloads/guides/rt-ilp-instructor-guide.pdf" />
+    <Link
+      Url="Content/Resources/downloads/guides/rt-ilp-student-guide.pdf" />
+    <Link
+      Url="Content/Resources/downloads/guides/rt-actions-menu-guide.pdf" />
+    <Link
+      Url="Content/Resources/downloads/guides/rt-cancellation-policies-guide.pdf" />
+    <Link
+      Url="https://view.vzaar.com/6432994/video" />
+    <Link
+      Url="https://view.vzaar.com/8667447/video" />
+    <Link
+      Url="https://view.vzaar.com/6082571/video" />
+    <Link
+      Url="https://view.vzaar.com/18717622/video" />
+    <Link
+      Url="https://view.vzaar.com/18601132/video" />
+    <Link
+      Url="https://view.vzaar.com/6082569/video" />
+    <Link
+      Url="https://view.vzaar.com/6433268/video" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Supporting students"
+  FileSearchable="true"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/RT Knowledge Base v4 Master/RT Knowledge Base v4/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://view.vzaar.com/8626953/video" />
+    <Link
+      Url="Content/products/spp/topics/faq.htm" />
+    <Link
+      Url="Content/contact.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://view.vzaar.com/8626953/video" />
+    <Link
+      Url="Content/products/spp/topics/faq.htm" />
+    <Link
+      Url="Content/contact.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Labs"
+  FileSearchable="true"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/RT Knowledge Base v4 Master/ILP Knowledge Base Master/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/notification.htm" />
+    <Link
+      Url="Content/contact.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/images/images.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/deployments/deployment.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/session.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/deployments/target_platform.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/notification.htm" />
+    <Link
+      Url="Content/contact.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/images/images.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/deployments/deployment.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/session.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/deployments/target_platform.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

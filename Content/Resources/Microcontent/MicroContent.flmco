@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set.">
+    <MicroContent>
+        <MicroContentPhrase>Pre-check</MicroContentPhrase>
+        <MicroContentPhrase>Tell me about micro content</MicroContentPhrase>
+        <MicroContentPhrase>New Phrase</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <xhtml:div xhtml:class="container-flex">
+                        <xhtml:article xhtml:class="article-wrapper" xhtml:data-spy="scroll" xhtml:data-target="#navbar-example">
+                            <xhtml:h1>Pre-check connectivity test</xhtml:h1>
+                            <xhtml:p> Watch the video below to prepare for using ReadyTechs Instructor-Led Portal to learn how to: </xhtml:p>
+                            <xhtml:ul>
+                                <xhtml:li>Check that your browser is compaitible with the Instrucotr-Led Portal.</xhtml:li>
+                                <xhtml:li>How to access the first day of training.</xhtml:li>
+                            </xhtml:ul>
+                            <xhtml:div xhtml:class="video-wrapper">
+                                <xhtml:div xhtml:class="video">
+                                    <xhtml:video xhtml:controls="true" xhtml:poster="https://view.vzaar.com/6432994/image" xhtml:class="video">
+                                        <xhtml:source xhtml:src="https://view.vzaar.com/6432994/video" />
+                                    </xhtml:video>
+                                </xhtml:div>
+                            </xhtml:div>
+                            <xhtml:p>
+                You can use the Instructor-Led Portal Pre-check connectivity testing tool to verify your browser and network connection meet the minimum requirements to run an Instructor-Led training events. 
+             </xhtml:p>
+                            <xhtml:p>
+                We recommend all instructors and students run the Pre-check test before the start of class to ensure a smooth delivery. Note that an ILP user does not need to log in to run the Pre-check test.
+             </xhtml:p>
+                            <xhtml:p>
+                 To run the Pre-check test, follw the steps below:
+             </xhtml:p>
+                            <xhtml:ol>
+                                <xhtml:li>Go to URL <xhtml:a xhtml:href="https://instructorled.training">https://[company_name].instructorled.training</xhtml:a>. Replace [company_name] with the name of your training organization.</xhtml:li>
+                                <xhtml:li>Click <xhtml:span xhtml:class="bold">Pre-check</xhtml:span> from the main navigation.
+                    <xhtml:img xhtml:src="../images/getting_started/01_pre-check.png" xhtml:title="Pre-check" xhtml:class="article__step-image" xhtml:width="60%" /></xhtml:li>
+                                <xhtml:li>Select the <xhtml:span xhtml:class="bold">data center</xhtml:span> <xhtml:span xhtml:class="italic">(DC)</xhtml:span> nearest to your physical location, then click <xhtml:span xhtml:class="bold">Start</xhtml:span>.</xhtml:li>
+                            </xhtml:ol>
+                            <xhtml:p>If you see 5 green check-marks next to Browser support for HTML5, Connectivity, Network latency, and Download speed your browser and network connection are ready for class.</xhtml:p>
+                            <xhtml:img xhtml:src="../images/getting_started/02_pre-check.png" xhtml:title="Pre-check" xhtml:class="article__step-image" xhtml:width="60%" />
+                            <xhtml:p>If an exclamation mark appears indicating your system performance is not ideal, see our <xhtml:a xhtml:href="../../products/ilp/topics/troubleshooting/troubleshooting.htm">troubleshooting</xhtml:a> section.</xhtml:p>
+                            <xhtml:img xhtml:src="../images/getting_started/03_pre-check.png" xhtml:title="Pre-check" xhtml:class="article__step-image" xhtml:width="60%" />
+                            <xhtml:div xhtml:class="article__next-article">
+                            </xhtml:div>
+                        </xhtml:article>
+                        <xhtml:div xhtml:class="article__side-nav">
+                            <xhtml:div xhtml:class="table-of-contents-container">
+                            </xhtml:div>
+                            <xhtml:div xhtml:class="rel-articles-container">
+                            </xhtml:div>
+                        </xhtml:div>
+                    </xhtml:div><xhtml:a xhtml:class="dl-file" xhtml:href="../downloads/guides/rt-pre-checking-connectivity.pdf" xhtml:name="Pre-checking connectivity" xhtml:style="display:none"> Pre-checking connectivity </xhtml:a><xhtml:a xhtml:class="rel-topic" xhtml:href="cancellation_policies.htm"> Cancellation policies </xhtml:a><xhtml:a xhtml:class="rel-topic" xhtml:href="assigning_access_code.htm"> Assigning access codes </xhtml:a>
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

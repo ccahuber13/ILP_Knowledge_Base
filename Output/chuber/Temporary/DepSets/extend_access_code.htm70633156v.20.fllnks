@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Extending an access code"
+  FileSearchable="true"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/RT Knowledge Base v4 (2)/RT Knowledge Base v4/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/Resources/images/assets/screenshots/ap/how_to_assign_access_codes/1_lg.png" />
+    <Link
+      Url="Content/Resources/images/assets/screenshots/ap/how_to_assign_access_codes/1_sm.png" />
+    <Link
+      Url="Content/Resources/images/assets/screenshots/ap/how_to_extend_access_codes/2_lg.png" />
+    <Link
+      Url="Content/Resources/images/assets/screenshots/ap/how_to_extend_access_codes/2_sm.png" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/cancellation_policies.htm" />
+    <Link
+      Url="Content/contact.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="Content/Resources/images/assets/screenshots/ap/how_to_assign_access_codes/1_lg.png" />
+    <Link
+      Url="Content/Resources/images/assets/screenshots/ap/how_to_assign_access_codes/1_sm.png" />
+    <Link
+      Url="Content/Resources/images/assets/screenshots/ap/how_to_extend_access_codes/2_lg.png" />
+    <Link
+      Url="Content/Resources/images/assets/screenshots/ap/how_to_extend_access_codes/2_sm.png" />
+    <Link
+      Url="Content/products/admin_portal/topics/events/cancellation_policies.htm" />
+    <Link
+      Url="Content/contact.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="PDF Guides" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

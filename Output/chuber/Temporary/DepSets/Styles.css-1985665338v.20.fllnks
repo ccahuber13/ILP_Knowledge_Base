@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/images/magnifying-glass-browser.png" />
+    <Link
+      Url="Content/Resources/images/magnifying-glass-browser-hover.png" />
+    <Link
+      Url="Content/Resources/images/left-arrow-green.png" />
+    <Link
+      Url="Content/Resources/images/right-arrow-green.png" />
+    <Link
+      Url="Content/Resources/images/left-arrow-white.png" />
+    <Link
+      Url="Content/Resources/images/right-arrow-white.png" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

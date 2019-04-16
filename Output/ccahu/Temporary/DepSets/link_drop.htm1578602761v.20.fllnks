@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Linking Dropbox files"
+  FileSearchable="true"
+  MasterPage="file:///E:/RTKnowledgeBase/RT Knowledge Base v4 Master/RT Knowledge Base v4/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://www.dropbox.com/developers/apps/" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_sm.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_tokenpng.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_tokenpng_sm.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_iconfolder.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_appsfolder.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_appsfolder_sm.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_appsfolderorg.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_appsfolderorg_sm.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_templates_menu.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_templates_menu_sm.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_AddMaterial.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_AddMaterial_sm.png" />
+    <Link
+      Url="Content/products/admin_portal/topics/administration/administration.htm" />
+    <Link
+      Url="Content/contact.htm" />
+    <Link
+      Url="Content/Resources/downloads/link_dropbox_files.pdf" />
+    <Link
+      Url="Content/products/admin_portal/topics/images/managing_ftp_storage.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/course_templates/course_template.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/course_templates/material.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://www.dropbox.com/developers/apps/" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_sm.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_tokenpng.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_tokenpng_sm.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_iconfolder.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_appsfolder.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_appsfolder_sm.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_appsfolderorg.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_oAuth2_appsfolderorg_sm.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_templates_menu.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_templates_menu_sm.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_AddMaterial.png" />
+    <Link
+      Url="Resources/images/assets/screenshots/add_materials_dropbox_AddMaterial_sm.png" />
+    <Link
+      Url="Content/products/admin_portal/topics/administration/administration.htm" />
+    <Link
+      Url="Content/contact.htm" />
+    <Link
+      Url="Content/Resources/downloads/link_dropbox_files.pdf" />
+    <Link
+      Url="Content/products/admin_portal/topics/images/managing_ftp_storage.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/course_templates/course_template.htm" />
+    <Link
+      Url="Content/products/admin_portal/topics/course_templates/material.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Linking Dropbox files PDF" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

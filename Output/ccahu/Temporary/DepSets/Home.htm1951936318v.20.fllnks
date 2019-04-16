@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="home-topic"
+  FileSearchable="false"
+  MasterPage="file:///E:/Google Drive/Projects/RT KB 3/RTKB3/Content/Resources/MasterPages/HomePage.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/Resources/images/icon-checkbox.png" />
+    <Link
+      Url="Content/Resources/images/icon-gears.png" />
+    <Link
+      Url="Content/Resources/images/icon-pdfs.png" />
+    <Link
+      Url="Content/products/GettingStarted.htm" />
+    <Link
+      Url="Content/Resources/images/icon-videos.png" />
+    <Link
+      Url="Content/Resources/images/icon-download.png" />
+    <Link
+      Url="Content/Resources/images/icon-popularTopics.png" />
+    <Link
+      Url="Content/Resources/images/icon-forum.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/HomePage.flmsp" />
+    <Link
+      Url="Content/Resources/images/icon-checkbox.png" />
+    <Link
+      Url="Content/Resources/images/icon-gears.png" />
+    <Link
+      Url="Content/Resources/images/icon-pdfs.png" />
+    <Link
+      Url="Content/products/GettingStarted.htm" />
+    <Link
+      Url="Content/Resources/images/icon-videos.png" />
+    <Link
+      Url="Content/Resources/images/icon-download.png" />
+    <Link
+      Url="Content/Resources/images/icon-popularTopics.png" />
+    <Link
+      Url="Content/Resources/images/icon-forum.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

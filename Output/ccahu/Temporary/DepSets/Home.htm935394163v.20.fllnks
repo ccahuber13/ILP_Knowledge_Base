@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Instructor-Led Portal Home"
+  FileSearchable="true"
+  MasterPage="file:///E:/RTKnowledgeBase/DEVELOPMENT KB/Development/ILP Knowledge Base Master/Content/Resources/MasterPages/product_home.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/product_home.flmsp" />
+    <Link
+      Url="Content/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/product_home.flmsp" />
+    <Link
+      Url="Content#SVGID_1_" />
+    <Link
+      Url="Content#SVGID_2_" />
+    <Link
+      Url="Content#SVGID_3_" />
+    <Link
+      Url="Content#SVGID_4_" />
+    <Link
+      Url="Content#SVGID_5_" />
+    <Link
+      Url="Content#SVGID_6_" />
+    <Link
+      Url="Content#SVGID_7_" />
+    <Link
+      Url="Content#SVGID_8_" />
+    <Link
+      Url="Content#SVGID_9_" />
+    <Link
+      Url="Content#SVGID_10_" />
+    <Link
+      Url="Content#SVGID_11_" />
+    <Link
+      Url="Content#SVGID_12_" />
+    <Link
+      Url="Content#SVGID_13_" />
+    <Link
+      Url="Content#SVGID_14_" />
+    <Link
+      Url="Content#SVGID_15_" />
+    <Link
+      Url="Content#SVGID_16_" />
+    <Link
+      Url="Content#SVGID_17_" />
+    <Link
+      Url="Content#SVGID_18_" />
+    <Link
+      Url="Content#SVGID_19_" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,70 @@
+/*
+=====================================================
+= Styles for LandingHome.flmsp
+=====================================================
+*/
+
+.body-container {
+    height: 100vh !important;
+    margin-top: 0;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #004276;
+    /* border-radius: .3rem; */
+    height: 20vh;
+}
+
+.jumbotron--rt {
+    padding-top: 7.5rem;
+}
+
+.jumbotron--rt h1 {
+    font-size: 4rem;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif, 'Arial', sans-serif;
+}
+
+.card-deck {
+    justify-content: space-evenly;
+}
+
+.card-deck .card {
+    margin-bottom: 2rem;
+    margin-bottom: 2rem;
+    flex: 0 0 16%;
+    padding: 3rem 0rem;
+    box-shadow: 0px 1px 10px -2px rgba(0, 0, 0, .2);
+    transition: all .2s ease;
+}
+
+h5 {
+
+    font-size: 1.5rem!important;
+    font-weight: 600!important;
+}
+
+.card-deck .card:hover {
+    box-shadow: 0px 1px 25px -1px rgba(0, 0, 0, .2);
+    cursor: pointer;
+}
+
+.card-deck .card-header {
+    background-color: #fff;
+    border-bottom: none;
+}
+
+.navbar--rt {
+    box-shadow: none;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-top: 2rem;
+    padding-right: 10vw;
+    padding-left: 10vw;
+    margin-right: auto;
+    margin-left: auto;
+}

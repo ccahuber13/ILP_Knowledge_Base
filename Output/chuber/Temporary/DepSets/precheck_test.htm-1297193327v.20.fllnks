@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Pre-check connectivity test"
+  FileSearchable="true"
+  MasterPage="file:///C:/ReadyTech/Knowledge_Base/Development/ILP Knowledge Base Master/Content/Resources/MasterPages/OtherTopics.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://view.vzaar.com/6432994/video" />
+    <Link
+      Url="https://instructorled.training/" />
+    <Link
+      Url="Content/Resources/images/getting_started/01_pre-check.png" />
+    <Link
+      Url="Content/Resources/images/getting_started/02_pre-check.png" />
+    <Link
+      Url="Content/products/ilp/topics/troubleshooting/troubleshooting.htm" />
+    <Link
+      Url="Content/Resources/images/getting_started/03_pre-check.png" />
+    <Link
+      Url="Content/Resources/downloads/guides/rt-pre-checking-connectivity.pdf" />
+    <Link
+      Url="Content/products/ilp/topics/troubleshooting/ts_browser_requirements.htm" />
+    <Link
+      Url="Content/products/ilp/topics/troubleshooting/ts_bandwidth_requirements.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Link
+      Url="https://view.vzaar.com/6432994/video" />
+    <Link
+      Url="https://instructorled.training/" />
+    <Link
+      Url="Content/Resources/images/getting_started/01_pre-check.png" />
+    <Link
+      Url="Content/Resources/images/getting_started/02_pre-check.png" />
+    <Link
+      Url="Content/products/ilp/topics/troubleshooting/troubleshooting.htm" />
+    <Link
+      Url="Content/Resources/images/getting_started/03_pre-check.png" />
+    <Link
+      Url="Content/Resources/downloads/guides/rt-pre-checking-connectivity.pdf" />
+    <Link
+      Url="Content/products/ilp/topics/troubleshooting/ts_browser_requirements.htm" />
+    <Link
+      Url="Content/products/ilp/topics/troubleshooting/ts_bandwidth_requirements.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Pre-checking connectivity" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
