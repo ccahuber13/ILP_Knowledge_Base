@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated HTML5.fltar" Date="2019-04-15T16:52:58.5614917-07:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2019 Generated HTML5.fltar" Date="2019-04-16T16:53:50.3925345-07:00">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -16,6 +16,7 @@ Processing CSS: Resources\Stylesheets\Styles.css...
 Processing CSS: Resources\TableStylesheets\Standard.css...
 Generating output files...
 Processing topic: products\ilp\topics\ilp_getting_started\ilp_getting_started.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_instructor_guide.pdf
 Applying master page OtherTopics.flmsp...
 https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css Line: 6. Char: 144323. Bad token in selector: @page
 https://use.fontawesome.com/releases/v5.6.3/css/all.css Line: 1. Char: 2044. Missing left brace ({)
@@ -39,6 +40,7 @@ Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
 Generated products\ilp\topics\ilp_getting_started\instructor_guide.htm
 Processing topic: products\ilp\topics\ilp_getting_started\student_guide.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_student_guide.pdf
 Applying master page OtherTopics.flmsp...
 Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
@@ -124,6 +126,7 @@ Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
 Generated products\ilp\topics\desktop\viewing_remote_desktop.htm
 Processing topic: products\ilp\topics\desktop\sending_key_commands.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf
 Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
 Applying master page OtherTopics.flmsp...
 Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
@@ -132,6 +135,7 @@ Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
 Generated products\ilp\topics\desktop\sending_key_commands.htm
 Processing topic: products\ilp\topics\desktop\using_dual_monitors.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf
 Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
 Applying master page OtherTopics.flmsp...
 Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
@@ -283,6 +287,7 @@ Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
 Generated products\ilp\topics\classmanager\classmanager.htm
 Processing topic: products\ilp\topics\saas_labs\saas_labs.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_student_guide.pdf
 Applying master page OtherTopics.flmsp...
 Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
@@ -324,189 +329,10 @@ Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/prod
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
 Generated products\ilp\topics\troubleshooting\ts_network_latency.htm
-Processing topic: products\ilp\topics\materials\setting_material_permissions.htm...
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\materials\setting_material_permissions.htm
-Processing topic: products\ilp\topics\troubleshooting\browser_requirements.htm...
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\troubleshooting\browser_requirements.htm
-Processing topic: contact.htm...
-Applying master page ContactUs.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated contact.htm
-Processing topic: products\ilp\topics\student\student_ilp.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\student\student_ilp.htm
-Processing topic: products\ilp\topics\saas_labs\viewing_saas_labs.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\saas_labs\viewing_saas_labs.htm
-Processing topic: products\ilp\topics\supporting_instructors\connecting_event_user.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\supporting_instructors\connecting_event_user.htm
-Processing topic: products\ilp\topics\lab\disable_password_protection.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\lab\disable_password_protection.htm
-Processing topic: products\ilp\topics\desktop\viewer_toolbar_settings.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\desktop\viewer_toolbar_settings.htm
-Processing topic: products\ilp\topics\saas_labs\configuring_saas_labs.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\saas_labs\configuring_saas_labs.htm
-Processing topic: products\ilp\topics\desktop\screenshots.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\desktop\screenshots.htm
-Processing topic: products\ilp\topics\materials\moving_materials.htm...
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\materials\moving_materials.htm
-Processing topic: products\ilp\topics\materials\adding_materials.htm...
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\materials\adding_materials.htm
-Processing topic: products\ilp\topics\desktop\drawing.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\desktop\drawing.htm
-Processing topic: products\ilp\topics\desktop\copy_clipboard.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\desktop\copy_clipboard.htm
-Processing topic: products\ilp\topics\saas_labs\lab_exercises.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\saas_labs\lab_exercises.htm
-Processing topic: products\ilp\topics\faq\faq.htm...
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\faq\faq.htm
-Processing topic: products\ilp\topics\saas_labs\activity_monitor.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\saas_labs\activity_monitor.htm
-Processing topic: products\ilp\topics\supporting_instructors\event_actions.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\supporting_instructors\event_actions.htm
-Processing topic: products\ilp\topics\supporting_instructors\user_actions.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\supporting_instructors\user_actions.htm
-Processing topic: downloads.htm...
-Applying master page ContactUs.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated downloads.htm
-Processing topic: products\ilp\topics\lab\remote_viewers.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\lab\remote_viewers.htm
-Processing topic: products\ilp\topics\materials\materials.htm...
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\materials\materials.htm
-Processing topic: products\ilp\topics\lab\viewing_student_lab.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
-Applying master page OtherTopics.flmsp...
-Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
-Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\lab\viewing_student_lab.htm
 Processing topic: products\ilp\topics\desktop\viewer_toolbar.htm...
 Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm
 Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf
 Applying master page OtherTopics.flmsp...
 Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
@@ -521,14 +347,28 @@ Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/prod
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
 Generated products\ilp\topics\saas_labs\sharing_control.htm
-Processing topic: products\ilp\topics\saas_labs\saas_labs_browser_requirements.htm...
-Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
+Processing topic: contact.htm...
+Applying master page ContactUs.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated contact.htm
+Processing topic: products\ilp\topics\lab\remote_viewers.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
 Applying master page OtherTopics.flmsp...
 Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
-Generated products\ilp\topics\saas_labs\saas_labs_browser_requirements.htm
+Generated products\ilp\topics\lab\remote_viewers.htm
+Processing topic: downloads.htm...
+Applying master page ContactUs.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated downloads.htm
 Processing topic: products\ilp\topics\saas_labs\lab_overview.htm...
 Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
 Applying master page OtherTopics.flmsp...
@@ -551,6 +391,181 @@ Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/prod
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
 Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
 Generated products\ilp\ilp_home.htm
+Processing topic: products\ilp\topics\student\student_ilp.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\student\student_ilp.htm
+Processing topic: products\ilp\topics\supporting_instructors\user_actions.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\supporting_instructors\user_actions.htm
+Processing topic: products\ilp\topics\materials\moving_materials.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_instructor_guide.pdf
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\materials\moving_materials.htm
+Processing topic: products\ilp\topics\lab\disable_password_protection.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\lab\disable_password_protection.htm
+Processing topic: products\ilp\topics\saas_labs\viewing_saas_labs.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\saas_labs\viewing_saas_labs.htm
+Processing topic: products\ilp\topics\materials\adding_materials.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_instructor_guide.pdf
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\materials\adding_materials.htm
+Processing topic: products\ilp\topics\materials\setting_material_permissions.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_instructor_guide.pdf
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\materials\setting_material_permissions.htm
+Processing topic: products\ilp\topics\materials\materials.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_instructor_guide.pdf
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\materials\materials.htm
+Processing topic: products\ilp\topics\saas_labs\configuring_saas_labs.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\saas_labs\configuring_saas_labs.htm
+Processing topic: products\ilp\topics\supporting_instructors\connecting_event_user.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\supporting_instructors\connecting_event_user.htm
+Processing topic: products\ilp\topics\desktop\drawing.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\desktop\drawing.htm
+Processing topic: products\ilp\topics\desktop\viewer_toolbar_settings.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\desktop\viewer_toolbar_settings.htm
+Processing topic: products\ilp\topics\desktop\copy_clipboard.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\desktop\copy_clipboard.htm
+Processing topic: products\ilp\topics\supporting_instructors\event_actions.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\supporting_instructors\event_actions.htm
+Processing topic: products\ilp\topics\saas_labs\lab_exercises.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\saas_labs\lab_exercises.htm
+Processing topic: products\ilp\topics\lab\viewing_student_lab.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\lab\viewing_student_lab.htm
+Processing topic: products\ilp\topics\troubleshooting\browser_requirements.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\troubleshooting\browser_requirements.htm
+Processing topic: products\ilp\topics\saas_labs\saas_labs_browser_requirements.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\saas_labs\saas_labs_browser_requirements.htm
+Processing topic: products\ilp\topics\faq\faq.htm...
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\faq\faq.htm
+Processing topic: products\ilp\topics\desktop\screenshots.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\desktop\screenshots.htm
+Processing topic: products\ilp\topics\saas_labs\activity_monitor.htm...
+Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm
+Applying master page OtherTopics.flmsp...
+Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm
+Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm
+Generated products\ilp\topics\saas_labs\activity_monitor.htm
 Generating micro content...
 Processing micro content: Resources\Microcontent\MicroContent.flmco#pre-check...
 Generated Resources\Stylesheets\Styles.micro-content.css
@@ -589,6 +604,7 @@ Done
 Saving log to "C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Output\chuber\HTML5\HTML5.mclog"
 </Messages>
     <Warnings>
+        <LogEntry File="../../../Content/products/ilp/topics/ilp_getting_started/ilp_getting_started.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_instructor_guide.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
         <LogEntry File="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" Message="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css Line: 6. Char: 144323. Bad token in selector: @page&#xA;" LineIndex="5" CharIndex="144323" Subsystem="CSS Parser" ErrorID="10015" />
         <LogEntry File="https://use.fontawesome.com/releases/v5.6.3/css/all.css" Message="https://use.fontawesome.com/releases/v5.6.3/css/all.css Line: 1. Char: 2044. Missing left brace ({)&#xA;" LineIndex="0" CharIndex="2044" Subsystem="CSS Parser" ErrorID="10015" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
@@ -603,6 +619,7 @@ Saving log to "C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/ilp_getting_started/student_guide.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_student_guide.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
@@ -652,11 +669,13 @@ Saving log to "C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/sending_key_commands.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
         <LogEntry File="../../../Content/products/ilp/topics/desktop/sending_key_commands.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/using_dual_monitors.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
         <LogEntry File="../../../Content/products/ilp/topics/desktop/using_dual_monitors.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
@@ -745,6 +764,7 @@ Saving log to "C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/saas_labs.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_student_guide.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
@@ -769,95 +789,14 @@ Saving log to "C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/viewer_toolbar.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/viewer_toolbar.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/viewer_toolbar.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/ContactUs.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/ContactUs.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/ContactUs.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/ContactUs.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/student/student_ilp.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/viewing_saas_labs.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/supporting_instructors/connecting_event_user.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/lab/disable_password_protection.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/desktop/viewer_toolbar_settings.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/products/ilp/topics/desktop/viewer_toolbar_settings.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/configuring_saas_labs.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/desktop/screenshots.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/products/ilp/topics/desktop/screenshots.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/desktop/drawing.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/products/ilp/topics/desktop/drawing.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/desktop/copy_clipboard.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/products/ilp/topics/desktop/copy_clipboard.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/lab_exercises.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/activity_monitor.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/supporting_instructors/event_actions.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/supporting_instructors/user_actions.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/sharing_control.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
@@ -871,31 +810,10 @@ Saving log to "C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/lab/viewing_student_lab.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/desktop/viewer_toolbar.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/products/ilp/topics/desktop/viewer_toolbar.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/sharing_control.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/saas_labs_browser_requirements.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
-        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/ContactUs.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/ContactUs.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/ContactUs.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/ContactUs.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/products/ilp/topics/saas_labs/lab_overview.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
@@ -911,6 +829,118 @@ Saving log to "C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master
         <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/MasterPages/HomePage.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/student/student_ilp.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/products/ilp/topics/student/student_ilp.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/supporting_instructors/user_actions.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/materials/moving_materials.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_instructor_guide.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/lab/disable_password_protection.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/viewing_saas_labs.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/materials/adding_materials.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_instructor_guide.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/materials/setting_material_permissions.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_instructor_guide.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/materials/materials.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_instructor_guide.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/configuring_saas_labs.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/supporting_instructors/connecting_event_user.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/drawing.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/drawing.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/drawing.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/viewer_toolbar_settings.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/viewer_toolbar_settings.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/viewer_toolbar_settings.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/copy_clipboard.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/copy_clipboard.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/copy_clipboard.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/supporting_instructors/event_actions.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/lab_exercises.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/lab/viewing_student_lab.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/saas_labs_browser_requirements.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/screenshots.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_hyperview_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/screenshots.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\lab\using_rdp.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/products/ilp/topics/desktop/screenshots.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\downloads\ilp_rtviewer.pdf&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/products/ilp/topics/saas_labs/activity_monitor.htm" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\products\ilp\topics\desktop\remote_desktop.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/spp/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/Knowledge_Base/Development/lm/Default.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
         <LogEntry File="../../../Content/Resources/Microcontent/MicroContent.flmco" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\Microcontent\cancellation_policies.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/Microcontent/MicroContent.flmco" Message="Missing linked source file: C:\ReadyTech\Knowledge_Base\Development\ILP Knowledge Base Master\Content\Resources\Microcontent\assigning_access_code.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/MasterPages/OtherTopics.flmsp" Message="Link points outside project file:///C:/ReadyTech/products/admin_portal/aphome.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />

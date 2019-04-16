@@ -16,6 +16,8 @@
     <Link
       Url="Content/Resources/images/actions_menu/28_actions_menu.png" />
     <Link
+      Url="Content/Resources/downloads/guides/rt-actions-menu-ref-guide.pdf" />
+    <Link
       Url="Content/products/ilp/topics/lab/using_rdp.htm" />
   </Links>
   <LongLinks>
@@ -28,9 +30,14 @@
     <Link
       Url="Content/Resources/images/actions_menu/28_actions_menu.png" />
     <Link
+      Url="Content/Resources/downloads/guides/rt-actions-menu-ref-guide.pdf" />
+    <Link
       Url="Content/products/ilp/topics/lab/using_rdp.htm" />
   </LongLinks>
-  <Anchors />
+  <Anchors>
+    <Anchor
+      Name="Actions menu reference guide" />
+  </Anchors>
   <Keywords />
   <Concepts />
   <ConceptControlNames />

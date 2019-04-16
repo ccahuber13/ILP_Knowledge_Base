@@ -16,6 +16,8 @@
     <Link
       Url="Content/Resources/images/actions_menu/10_actions_menu.png" />
     <Link
+      Url="Content/Resources/downloads/guides/rt-actions-menu-ref-guide.pdf" />
+    <Link
       Url="Content/products/ilp/topics/lab/rebooting.htm" />
     <Link
       Url="Content/products/ilp/topics/lab/transferring_files.htm" />
@@ -36,6 +38,8 @@
     <Link
       Url="Content/Resources/images/actions_menu/10_actions_menu.png" />
     <Link
+      Url="Content/Resources/downloads/guides/rt-actions-menu-ref-guide.pdf" />
+    <Link
       Url="Content/products/ilp/topics/lab/rebooting.htm" />
     <Link
       Url="Content/products/ilp/topics/lab/transferring_files.htm" />
@@ -46,7 +50,10 @@
     <Link
       Url="Content/products/ilp/topics/materials/materials.htm" />
   </LongLinks>
-  <Anchors />
+  <Anchors>
+    <Anchor
+      Name="Actions menu reference guide" />
+  </Anchors>
   <Keywords />
   <Concepts />
   <ConceptControlNames />

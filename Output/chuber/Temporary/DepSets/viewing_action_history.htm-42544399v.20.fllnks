@@ -14,6 +14,8 @@
     <Link
       Url="Content/Resources/images/actions_menu/24_actions_menu.png" />
     <Link
+      Url="Content/Resources/downloads/guides/rt-actions-menu-ref-guide.pdf" />
+    <Link
       Url="Content/products/ilp/topics/lab/rebooting.htm" />
     <Link
       Url="Content/products/ilp/topics/lab/resetting_system.htm" />
@@ -32,6 +34,8 @@
     <Link
       Url="Content/Resources/images/actions_menu/24_actions_menu.png" />
     <Link
+      Url="Content/Resources/downloads/guides/rt-actions-menu-ref-guide.pdf" />
+    <Link
       Url="Content/products/ilp/topics/lab/rebooting.htm" />
     <Link
       Url="Content/products/ilp/topics/lab/resetting_system.htm" />
@@ -42,7 +46,10 @@
     <Link
       Url="Content/products/ilp/topics/lab/viewing_system_log.htm" />
   </LongLinks>
-  <Anchors />
+  <Anchors>
+    <Anchor
+      Name="Actions menu reference guide" />
+  </Anchors>
   <Keywords />
   <Concepts />
   <ConceptControlNames />

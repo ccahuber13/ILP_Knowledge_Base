@@ -10,11 +10,15 @@
     <Link
       Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
     <Link
+      Url="https://view.vzaar.com/19991738/video" />
+    <Link
       Url="Content/Resources/images/actions_menu/11_actions_menu.png" />
     <Link
       Url="Content/Resources/images/actions_menu/12_actions_menu.png" />
     <Link
       Url="Content/Resources/images/actions_menu/13_actions_menu.png" />
+    <Link
+      Url="Content/Resources/downloads/guides/rt-actions-menu-ref-guide.pdf" />
     <Link
       Url="Content/products/ilp/topics/lab/rebooting.htm" />
     <Link
@@ -28,11 +32,15 @@
     <Link
       Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
     <Link
+      Url="https://view.vzaar.com/19991738/video" />
+    <Link
       Url="Content/Resources/images/actions_menu/11_actions_menu.png" />
     <Link
       Url="Content/Resources/images/actions_menu/12_actions_menu.png" />
     <Link
       Url="Content/Resources/images/actions_menu/13_actions_menu.png" />
+    <Link
+      Url="Content/Resources/downloads/guides/rt-actions-menu-ref-guide.pdf" />
     <Link
       Url="Content/products/ilp/topics/lab/rebooting.htm" />
     <Link
@@ -42,7 +50,10 @@
     <Link
       Url="Content/products/ilp/topics/materials/materials.htm" />
   </LongLinks>
-  <Anchors />
+  <Anchors>
+    <Anchor
+      Name="Actions menu reference guide" />
+  </Anchors>
   <Keywords />
   <Concepts />
   <ConceptControlNames />
