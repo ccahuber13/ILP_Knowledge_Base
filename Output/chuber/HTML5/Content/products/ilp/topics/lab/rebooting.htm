@@ -4,7 +4,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Rebooting the remote systems</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Rebooting remote labs</title>
         <link href="../../../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" />
         <link href="../../../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" />
         <link href="../../../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" />
@@ -202,27 +202,30 @@
                                     </div>
                                     <div class="container-flex">
                                         <div class="article-wrapper">
-                                            <h1 id="1">Rebooting the remote systems</h1>
-                                            <p>From the Lab actions menu, you can choose to soft reboot or hard reboot a single or multiple student systems.  </p>
-                                            <ul>
-                                                <li value="1">Soft reboot - Attempts to software reboot a system. This functions similar to going to Start &gt; Shutdown &gt; Restart in Windows.</li>
-                                                <li value="2">Hard reboot - Attempts to restart the remote system by powering it off and on. </li>
-                                            </ul>
-                                            <div class="warning">
-                                                <div>Always attempt a soft reboot first. Only use hard reboot if the remote system hangs to prevent possible data loss.</div>
-                                            </div>
-                                            <p class="bold">To reboot a remote system:</p>
+                                            <h1 id="1">Rebooting remote labs</h1>
+                                            <p>Use soft and hard reboot in situations where the remote lab needs to reboot, such as newly installed software that
+                    requires a system restart. </p>
+                                            <p>To reboot a remote lab, follow the steps below:</p>
                                             <ol>
-                                                <li value="1">Click <span class="bold">Lab</span> from the top menu bar.
-                            <img src="../../../../Resources/images/actions_menu/04_actions_menu.png" title="Actions menu" class="article__step-image" alt="" /></li>
-                                                <li value="2">Click <span class="bold">Actions</span> then click <span class="bold">Soft reboot...</span>.</li>
-                                                <li value="3">Select the <span class="bold">check-box</span> next to each user whom you want to reboot their system.
-                                <img src="../../../../Resources/images/actions_menu/05_actions_menu.png" title="Actions menu" class="article__step-image" alt="" /></li>
+                                                <li value="1">Click the <span class="bold">Lab</span> tab from the navigation bar.
+                            <img src="../../../../Resources/images/actions_menu/04_actions_menu.png" title="Reboot remote lab" class="article__step-image" alt="" /></li>
+                                                <li value="2">Click <span class="bold">Actions</span>, then choose a reboot option.
+                            <ul><li value="1">Select <span class="bold">Soft reboot…</span> to gracefully restart the remote lab. Soft reboot waits for the operating system to close
+                                    all running applications.</li><li value="2">Select <span class="bold">Hard reboot…</span> to power the remote lab off then on without waiting for running applications to close.</li></ul></li>
+                                                <li value="3">Select the <span class="bold">check-box</span> next to each student whom you want to reboot their remote labs.
+                            <img src="../../../../Resources/images/actions_menu/05_actions_menu.png" title="Reboot remote lab" class="article__step-image" alt="" /></li>
                                                 <li value="4">Click <span class="bold">OK</span>.</li>
                                             </ol>
-                                            <div class="note">
-                                                <div>The Status icon will change to down, and then back to up when the system as finished restarting.</div>
+                                            <div class="warning">
+                                                <div>Always attempt a soft reboot first as hard reboot has the potential to cause data loss. Only use hard
+                            reboot in situations where the remote lab does not respond to a soft reboot.
+                    </div>
                                             </div>
+                                            <p>A cloud-based lab takes about a minute or less to reboot. A hardware-based lab can take 5 – 10 minutes to reboot
+                    depending on the complexity of the lab environment. The status panel on the Lab page displays a green upward
+                    facing arrow icon indicating you can connect to the remote lab.</p>
+                                            <p>If the status panel continues to display a red downward facing arrow after 10 minutes, see <a href="viewing_system_log.htm">viewing system logs</a>
+                    for more information on checking remote lab errors.</p>
                                             <div class="article__next-article">
                                                 <div class="buttons popup-container clearfix topicToolbarProxy mc-component nocontent" style="mc-topic-toolbar-items: PreviousTopic NextTopic;">
                                                     <div class="button-group-container-left">

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
-  FileTitle="Updating the deployment files"
+  FileTitle="Updating remote lab deployment files"
   FileSearchable="true"
   MasterPage="file:///C:/ReadyTech/Knowledge_Base/Development/ILP Knowledge Base Master/Content/Resources/MasterPages/OtherTopics.flmsp"
   OnlyLocalStylesheets="false"
@@ -10,11 +10,11 @@
     <Link
       Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
     <Link
+      Url="Content/Resources/images/actions_menu/10_actions_menu.png" />
+    <Link
       Url="Content/Resources/images/actions_menu/08_actions_menu.png" />
     <Link
       Url="Content/Resources/images/actions_menu/09_actions_menu.png" />
-    <Link
-      Url="Content/Resources/images/actions_menu/10_actions_menu.png" />
     <Link
       Url="Content/Resources/downloads/guides/rt-actions-menu-ref-guide.pdf" />
     <Link
@@ -32,11 +32,11 @@
     <Link
       Url="Content/Resources/MasterPages/OtherTopics.flmsp" />
     <Link
+      Url="Content/Resources/images/actions_menu/10_actions_menu.png" />
+    <Link
       Url="Content/Resources/images/actions_menu/08_actions_menu.png" />
     <Link
       Url="Content/Resources/images/actions_menu/09_actions_menu.png" />
-    <Link
-      Url="Content/Resources/images/actions_menu/10_actions_menu.png" />
     <Link
       Url="Content/Resources/downloads/guides/rt-actions-menu-ref-guide.pdf" />
     <Link

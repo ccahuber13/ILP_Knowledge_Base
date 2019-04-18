@@ -94,7 +94,7 @@
         Link="/Content/products/ilp/topics/lab/transferring_files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
-        Link="/Content/products/ilp/topics/lab/resetting_system.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        Link="/Content/products/ilp/topics/lab/resetting_labs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/products/ilp/topics/lab/deploying_new_image.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
@@ -106,11 +106,17 @@
         Link="/Content/products/ilp/topics/lab/clear_activation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
+        Link="/Content/products/ilp/topics/lab/disable_password_protection.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
         Link="/Content/products/ilp/topics/lab/change_access_codes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/products/ilp/topics/lab/viewing_action_history.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
+    <TocEntry
+      Title="Using DeviceMapper to connect a local USB device"
+      Link="/Content/products/ilp/topics/lab/using_device_mapper.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"

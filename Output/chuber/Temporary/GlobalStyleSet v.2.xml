@@ -3,15 +3,98 @@
   SavedSource="file:///C:/ReadyTech/Knowledge_Base/Development/ILP Knowledge Base Master/Output/chuber/Temporary/GlobalStyleSet v.2.xml">
   <Media>
     <Medium
-      Name="only scren and (max-width: 1080px)" />
-    <Medium
       Name="tablet" />
+    <Medium
+      Name="only scren and (max-width: 1080px)" />
     <Medium
       Name="mobile" />
     <Medium
       Name="print" />
+    <Medium
+      Name="only screen and (max-width: 1200px)" />
   </Media>
   <Map>
+    <Tag
+      Name="nav">
+      <Class
+        Name="title-bar" />
+    </Tag>
+    <Tag
+      Name="p">
+      <Class
+        Name="MiniTOC1" />
+      <Class
+        Name="MiniTOC2" />
+      <Class
+        Name="MiniTOC3" />
+      <Class
+        Name="MiniTOC4" />
+      <Class
+        Name="MiniTOC5" />
+      <Class
+        Name="MiniTOC6" />
+      <Class
+        Name="MiniTOC7" />
+      <Class
+        Name="MiniTOC8" />
+      <Class
+        Name="MiniTOC9" />
+      <Class
+        Name="TOC1" />
+      <Class
+        Name="TOC2" />
+      <Class
+        Name="TOC3" />
+      <Class
+        Name="TOC4" />
+      <Class
+        Name="TOC5" />
+      <Class
+        Name="TOC6" />
+      <Class
+        Name="TOC7" />
+      <Class
+        Name="TOC8" />
+      <Class
+        Name="TOC9" />
+      <Class
+        Name="IndexHeading" />
+      <Class
+        Name="Index1" />
+      <Class
+        Name="Index2" />
+      <Class
+        Name="Index3" />
+      <Class
+        Name="Index4" />
+      <Class
+        Name="Index5" />
+      <Class
+        Name="Index6" />
+      <Class
+        Name="Index7" />
+      <Class
+        Name="Index8" />
+      <Class
+        Name="Index9" />
+      <Class
+        Name="Concept" />
+      <Class
+        Name="ConceptContext" />
+      <Class
+        Name="ListOf" />
+    </Tag>
+    <Tag
+      Name="a">
+      <Class
+        Name="selected" />
+      <Class
+        Name="GlossaryPageTerm" />
+      <Class
+        Name="MCBreadcrumbsLink" />
+      <Class
+        Name="Popup" />
+    </Tag>
     <Tag
       Name="html">
       <Class
@@ -24,6 +107,29 @@
         Name="reference" />
       <Class
         Name="topic" />
+    </Tag>
+    <Tag
+      Name="h1" />
+    <Tag
+      Name="h3" />
+    <Tag
+      Name="h4">
+      <Class
+        Name="card" />
+    </Tag>
+    <Tag
+      Name="h6" />
+    <Tag
+      Name="h2">
+      <Class
+        Name="card-header" />
+    </Tag>
+    <Tag
+      Name="h5">
+      <Class
+        Name="card-title" />
+      <Class
+        Name="rt-dropDown-head" />
     </Tag>
     <Tag
       Name="body" />
@@ -94,106 +200,9 @@
     <Tag
       Name="iframe" />
     <Tag
-      Name="h1" />
-    <Tag
-      Name="h2">
-      <Class
-        Name="card-header" />
-    </Tag>
-    <Tag
-      Name="h3" />
-    <Tag
-      Name="h4">
-      <Class
-        Name="card" />
-    </Tag>
-    <Tag
-      Name="h5">
-      <Class
-        Name="card-title" />
-      <Class
-        Name="rt-dropDown-head" />
-    </Tag>
-    <Tag
-      Name="h6" />
-    <Tag
-      Name="p">
-      <Class
-        Name="MiniTOC1" />
-      <Class
-        Name="MiniTOC2" />
-      <Class
-        Name="MiniTOC3" />
-      <Class
-        Name="MiniTOC4" />
-      <Class
-        Name="MiniTOC5" />
-      <Class
-        Name="MiniTOC6" />
-      <Class
-        Name="MiniTOC7" />
-      <Class
-        Name="MiniTOC8" />
-      <Class
-        Name="MiniTOC9" />
-      <Class
-        Name="TOC1" />
-      <Class
-        Name="TOC2" />
-      <Class
-        Name="TOC3" />
-      <Class
-        Name="TOC4" />
-      <Class
-        Name="TOC5" />
-      <Class
-        Name="TOC6" />
-      <Class
-        Name="TOC7" />
-      <Class
-        Name="TOC8" />
-      <Class
-        Name="TOC9" />
-      <Class
-        Name="IndexHeading" />
-      <Class
-        Name="Index1" />
-      <Class
-        Name="Index2" />
-      <Class
-        Name="Index3" />
-      <Class
-        Name="Index4" />
-      <Class
-        Name="Index5" />
-      <Class
-        Name="Index6" />
-      <Class
-        Name="Index7" />
-      <Class
-        Name="Index8" />
-      <Class
-        Name="Index9" />
-      <Class
-        Name="Concept" />
-      <Class
-        Name="ConceptContext" />
-      <Class
-        Name="ListOf" />
-    </Tag>
-    <Tag
       Name="blockquote" />
     <Tag
       Name="pre" />
-    <Tag
-      Name="a">
-      <Class
-        Name="GlossaryPageTerm" />
-      <Class
-        Name="MCBreadcrumbsLink" />
-      <Class
-        Name="Popup" />
-    </Tag>
     <Tag
       Name="abbr" />
     <Tag
@@ -256,6 +265,8 @@
       Name="ul">
       <Class
         Name="sidenav" />
+      <Class
+        Name="off-canvas-list" />
     </Tag>
     <Tag
       Name="li">
@@ -312,11 +323,6 @@
       Name="hgroup" />
     <Tag
       Name="menu" />
-    <Tag
-      Name="nav">
-      <Class
-        Name="title-bar" />
-    </Tag>
     <Tag
       Name="output" />
     <Tag
@@ -603,6 +609,10 @@
       Name="MadCap|equation" />
   </Map>
   <SourceUrls>
+    <Url
+      Source="Resources/Stylesheets/LandingStyle.css" />
+    <Url
+      Source="Resources/Stylesheets/langingpagestyles.css" />
     <Url
       Source="Resources/Stylesheets/Styles.css" />
     <Url
